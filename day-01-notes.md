@@ -7,6 +7,7 @@ The six steps (pretend store: a coffee shop)
 6. Act: The owner changes the menu and we check if sales recover.
 9800 rows
 18 columns
+Data Types: number (whole), number (decimal), text, date
 Which product category and sub-category make the most profit, and which lose money?
 Who are the top 10 customers by total sales?
 Which region or state brings in the most sales, and which has the weakest results?
